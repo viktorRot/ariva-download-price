@@ -7,7 +7,7 @@ Use ISIN_List.txt to define the ISINs to download
 ```
 
 ## Period of information
-The period of the price information can be set in the URL set in:
+The period of the price information can be set in the URL:
 ```
 $DOWNLAOD_URL
 ```
